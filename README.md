@@ -17,4 +17,4 @@
 
 ## Minhas contribuições
 
-![Sad Mario](https://i.postimg.cc/k5By2NLr/kindpng-36504-1.png)
+![Sad Mario](https://files.cercomp.ufg.br/weby/up/80/o/aguarde_em_breve.png)
