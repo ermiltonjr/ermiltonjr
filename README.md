@@ -2,7 +2,7 @@
 
 Estudante de **Ciência da Computação na UFT** com mais de 5 anos em tecnologia, atuando em **desenvolvimento backend** e **dados**. Hoje desenvolvo em equipe APIs em TypeScript e Node.js com PostgreSQL e Prisma, usadas em produção por equipes de campo e de escritório.
 
-📍 Palmas, TO ·
+📍 Palmas, TO
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ermilton-junior)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ermiltondev@gmail.com)
@@ -17,7 +17,7 @@ Estudante de **Ciência da Computação na UFT** com mais de 5 anos em tecnologi
 - Testes automatizados de API com Vitest (cerca de 30 suítes) e correção de falhas de produção até a causa raiz
 - App Android (Capacitor) para coleta em campo: fotos carimbadas com KM, GPS e data, mapa offline e atualização automática
 - Importação de três meses de produção real como base histórica, metas de produtividade por atividade e painel de indicadores
-- 
+
 > Esses projetos são de uso interno e o código é privado. Fico à vontade para conversar sobre as decisões técnicas.
 
 ## 🧰 Tecnologias
